@@ -38,7 +38,7 @@ An industrial predictive maintenance dashboard that analyzes real-time sensor da
 This project is optimized for deployment on [Vercel](https://vercel.com).
 
 ### Live Demo
-[**View Live Deployment**](https://your-project-name.vercel.app)
+[**View Live Deployment**](https://predictive-maintenance-agent.vercel.app/)
 
 ### Deploy Your Own
 You can deploy this project to Vercel with a single click:
